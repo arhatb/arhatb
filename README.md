@@ -1,19 +1,26 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-I'm a Student 👨‍🎓, Developer 💻, Content Creator 🎬 and Future Entrepreneur 🚀!
-🔭 I’m currently working on creative tech projects and ideas (and planning something big 👀)
-🌱 I’m currently improving myself in programming, problem solving and technology
-👯 I’m looking to collaborate with developers and creative minds
-🤔 I’m exploring ways to build my own projects and systems
-🥅 Goals: Build something unique, grow my own project and make it known 🌍
-⚡ Fun fact: I love music 🎧 (rap & slow), tech stuff 💻 and creating different ideas
-⏲ What I'm doing now:
+🎓 I’m a Software enthusiast and student from Türkiye, focused on improving myself in technology and programming.
+🚀 I’m building my own projects and aiming to create scalable and useful digital products.
+💻 Interested in software development, system building and creative tech ideas.
+🎧 Passionate about music (rap & slow), technology, and producing creative content.
 
-Working on my own projects and ideas 🚀
-Improving my coding skills and learning new things every day 💻
-Creating content and experimenting with different concepts 🎬
-Planning future business ideas (especially food & tech based 👀)
-Trying to build something that actually makes an impact ⚡
+🚀 My Focus & Projects
+🟣 Personal Tech Projects — Building systems, experimenting with ideas and improving my skills
+🔵 Future Startup Plans — Planning a food & tech based business and digital platforms
+
+⏳ What I’m Currently Doing
+💻 Improving my programming and problem-solving skills daily
+🚀 Working on personal projects and new ideas
+📊 Exploring ways to build my own systems (like tracking, tools, etc.)
+🎬 Creating content and experimenting with different concepts
+💡 Planning long-term business and startup ideas
+
+✅ Goals & Vision
+🌍 Build a project that reaches a wide audience
+🚀 Launch my own startup and grow it step by step
+🤖 Learn and integrate new technologies into my projects
+⚡ Become someone who produces, not just consumes
 
 <br />
 
