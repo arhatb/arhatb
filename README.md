@@ -1,74 +1,18 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-🎓 I’m a Software enthusiast and student from Türkiye, focused on improving myself in technology and programming.
-🚀 I’m building my own projects and aiming to create scalable and useful digital products.
-💻 Interested in software development, system building and creative tech ideas.
-🎧 Passionate about music (rap & slow), technology, and producing creative content.
-
-🚀 My Focus & Projects
-🟣 Personal Tech Projects — Building systems, experimenting with ideas and improving my skills
-🔵 Future Startup Plans — Planning a food & tech based business and digital platforms
-
-⏳ What I’m Currently Doing
-💻 Improving my programming and problem-solving skills daily
-🚀 Working on personal projects and new ideas
-📊 Exploring ways to build my own systems (like tracking, tools, etc.)
-🎬 Creating content and experimenting with different concepts
-💡 Planning long-term business and startup ideas
-
-✅ Goals & Vision
-🌍 Build a project that reaches a wide audience
-🚀 Launch my own startup and grow it step by step
-🤖 Learn and integrate new technologies into my projects
-⚡ Become someone who produces, not just consumes
-
-<br />
-
-### 📩 Connect with me:
-
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="bionluk | Bionluk" width="24px" src="https://i0.wp.com/www.moramfi.com/wp-content/uploads/2020/06/unnamed-min-1.png?resize=344%2C344&ssl=1" />][bionluk]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-
-<br />
-
-### 🔧 Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
-[<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
-
-<br />
-
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
+# 💫 About Me:
+I'm a Student 👨‍🎓, Developer 💻, Content Creator 🎬 and Future Entrepreneur 🚀!<br>🔭 I’m currently working on creative tech projects and ideas (and planning something big 👀)<br>🌱 I’m currently improving myself in programming, problem solving and technology<br>👯 I’m looking to collaborate with developers and creative minds<br>🤔 I’m exploring ways to build my own projects and systems<br>🥅 Goals: Build something unique, grow my own project and make it known 🌍<br>⚡ Fun fact: I love music 🎧 (rap & slow), tech stuff 💻 and creating different ideas<br>⏲ What I'm doing now:<br><br>Working on my own projects and ideas 🚀<br>Improving my coding skills and learning new things every day 💻<br>Creating content and experimenting with different concepts 🎬<br>Planning future business ideas (especially food & tech based 👀)<br>Trying to build something that actually makes an impact ⚡
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arhatbasut) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arhatbasut) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arhatbasut) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arhatb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arhatb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arhatb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### GitHub Analytics 📊
+---
+[![](https://komarev.com/ghpvc/?username=arhatb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arhatb&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
-</a>
-
-<br />
-<br />
-
-[instagram]: https://www.instagram.com/arhatbasut/
-[linkedin]: https://www.linkedin.com/in/arhatbasut
-[gmail]: mailto:arhatbasut@gmail.com
-[github]: https://github.com/arhatb/
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
